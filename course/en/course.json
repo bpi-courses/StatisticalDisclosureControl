@@ -1,0 +1,340 @@
+{
+  "title": "Introduction to statistical disclosure control",
+  "displayTitle": "Introduction to statistical disclosure control",
+  "body": "<p>Welcome to the introduction to statistical disclosure control&nbsp;e-learning course. This course will cover:</p><ul><li>what is meant by statistical disclosure risk and statistical disclosure control</li><li>why there is a need to protect data against disclosure</li><li>how to recognise situations where there is a risk of statistical disclosure</li><li>the disclosure techniques and tools that are used to protect data</li></ul><p>This course has been created by the Best Practice and Impact division. For any further information or support, please contact <a href=\"mailto:gsshelp@statistics.gov.uk\">GSSHelp@statistics.gov.uk</a>.&nbsp;</p>",
+  "subtitle": "",
+  "description": "",
+  "instruction": "Please select a module. ",
+  "_htmlClasses": "",
+  "_latestTrackingId": 26,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_requireCompletionOf": -1,
+  "_lockType": "",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_youtube": {
+        "ariaRegion": "Media component which displays a YouTube video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_blinds": {
+        "ariaRegion": "Image with text that appears when selected. "
+      },
+      "_graphicwithlink": {
+        "ariaRegion": "this image contains a link to a URL, please select it to visit the URL. "
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      },
+      "_scenarioOutcome": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_accordion": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_reveal": {
+        "ariaLabel": "Reveal toggle button."
+      },
+      "_beforeafter": {
+        "ariaRegion": "Before and after image, slide to reveal each"
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
+      }
+    }
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_global": {
+      "font-color": "#004556",
+      "font-color-inverted": "#d3d3d3",
+      "link": "#5f7682",
+      "link-inverted": "",
+      "link-hover": "#0000ee",
+      "link-inverted-hover": "",
+      "heading-color": "#004556",
+      "heading-color-inverted": "#eaeaea"
+    },
+    "_items": {
+      "item-color": "#003c57",
+      "item-color-inverted": "#eaeaea",
+      "item-color-hover": "#ff6900",
+      "item-color-inverted-hover": "#003c57",
+      "item-color-selected": "#eaeaea",
+      "item-color-inverted-selected": "#9096a0",
+      "visited": "#ff6900",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#eaeaea",
+      "btn-color-inverted": "#ff6900",
+      "btn-color-hover": "#d3d3d3",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#065f28",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#ff0000",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#ff6900",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#ff6900"
+    },
+    "_menu": {
+      "menu-item": "#ffffff",
+      "menu-item-inverted": "#003c57",
+      "menu-item-border-color": "#ff6900",
+      "menu-item-progress": "#ff6900",
+      "menu-item-progress-inverted": "#003c57",
+      "menu-item-progress-border": "#2e2e2e",
+      "menu-item-btn-color": "#eaeaea",
+      "menu-item-btn-color-inverted": "#003c57",
+      "menu-item-btn-color-hover": "#9096a0",
+      "menu-item-btn-color-inverted-hover": ""
+    },
+    "_nav": {
+      "nav": "#003c57",
+      "nav-inverted": "#003c57",
+      "nav-icon": "#ff6900",
+      "nav-icon-inverted": "#003c57",
+      "nav-icon-hover": "#eaeaea",
+      "nav-icon-inverted-hover": "",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_notify": {
+      "notify": "#004556",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#004556",
+      "drawer-inverted": "#ff6900",
+      "drawer-link": "#0000ee",
+      "drawer-link-hover": "",
+      "drawer-icon": "#ff6900",
+      "drawer-icon-inverted": "#003c57",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#003c57",
+      "background-inverted": "#ffffff",
+      "shadow": "#000000",
+      "shadow-inverted": "#ffffff"
+    }
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": []
+  },
+  "_spoor": {
+    "_messages": ""
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "page",
+    "_showPrompt": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  }
+}

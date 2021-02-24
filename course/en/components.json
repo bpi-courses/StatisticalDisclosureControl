@@ -1,0 +1,2026 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>There is a further&nbsp;guidance available on this topic, including:</p><ul><li>Link to new SDC guidance</li><li>Link to other disclosure courses</li></ul><p>&nbsp;</p><p>If you require more bespoke guidance, please contact the Statistical Disclosure Team or Data Quality Team&nbsp;at <a href=\"mailto:DQHub@ons.gov.uk\">DQHub@ons.gov.uk</a>.</p>",
+    "_id": "5fdb298c155d3830851b31e4",
+    "_parentId": "5fdb298c155d3830851b31bd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fff0ac1680ed409e2f97d6d",
+    "_parentId": "5fff0a84680ed409e2f97d6c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDh8fGRhdGF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "small": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDh8fGRhdGF8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>A disclosure, or breach of confidentiality, is when data released allows someone to deduce confidential information within the data. Data must be protected before it is released or shared to minimise the risk of disclosure of confidential information about any individual or organisation.</p>",
+    "_id": "5fff0ac6680ed409e2f97d6e",
+    "_parentId": "5fff0a84680ed409e2f97d6c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Risks",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fff0d1a680ed409e2f97d70",
+    "_parentId": "5fff0b5b680ed409e2f97d6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the image to find out more",
+    "_setCompletionOn": "inview",
+    "height": 500,
+    "_expandBy": 4,
+    "_items": [
+      {
+        "src": "course/en/assets/00dfeee4ab24558cfd4b7b752c6f302fb666c937.svg",
+        "_captions": [
+          {
+            "text": "Reputational damage",
+            "top": "",
+            "left": "",
+            "width": ""
+          },
+          {
+            "text": "Harm to those whose information you keep",
+            "top": "",
+            "left": "",
+            "width": ""
+          },
+          {
+            "text": "Breaking the law",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Statistical disclosure control (SDC) is a set of techniques that are applied to data in order to identify disclosure risk, and where needed, reduce the risk to an acceptable level.&nbsp;</p>",
+    "_id": "5fff0fb9680ed409e2f97d76",
+    "_parentId": "5fff0fa9680ed409e2f97d75",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fff0fe5680ed409e2f97d78",
+    "_parentId": "5fff0fdd680ed409e2f97d77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Whenever statistical disclosure is applied there is inevitably some information lost. This is known as a decrease in data utility However, the loss of utility leads to a decrease in the risk of disclosure. When applying SDC, our aim is to maximise the utility of the data, while limiting the risk of disclosure to an acceptable level.</p><p>It is almost impossible for data to have zero disclosure risk.</p>",
+    "_id": "5fff113a680ed409e2f97d7c",
+    "_parentId": "5fff1116680ed409e2f97d7b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fff1164680ed409e2f97d7d",
+    "_parentId": "5fff1116680ed409e2f97d7b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/00f571625ab7167e27b083a9ceb6fef941ee9931.svg",
+      "small": "course/en/assets/00f571625ab7167e27b083a9ceb6fef941ee9931.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "beforeafter",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Remove the disclosive row",
+    "displayTitle": "Remove the disclosive row",
+    "body": "<p>An effective way of protecting the household from being identified is to remove the row with information on 6+ households from the table. The rest of the table is unaffected, so the utility of the table is still high.&nbsp;<br /><br />Please note&nbsp;&nbsp;<a href=\"#602fc2cd680ed409e2f9808d\">HTML versions of these tables</a> are also available on this page should you need them.</p>",
+    "_id": "60004d35680ed409e2f97dc0",
+    "_parentId": "6000412c680ed409e2f97dae",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Slide the arrow to view the options",
+    "_beforeafter": {
+      "before": "course/en/assets/b8a7701b39d9a964776145a76751b90d1754da8d.svg",
+      "altbefore": "The lowest total for either household size or banded income is 11, aside from the household size of 6 or more. There is only one household with more than 6 people on this table.",
+      "after": "course/en/assets/fa91831038ceddbf68df49e094baf14307de0555.svg",
+      "alt": "The row with the 6+ category has been removed, and the totals have been updated so the one household is no longer included.",
+      "attribution": ""
+    },
+    "bottomText": ""
+  },
+  {
+    "_component": "beforeafter",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Remove all values below ten",
+    "displayTitle": "Remove all values below ten",
+    "body": "<p>An alternative would be for&nbsp;all of the values below 10 could be suppressed in the table. This table is now low risk, but this is an ineffective way of protecting the data. A lot of information is lost and so the table isn’t very useful.</p><p>Its utility is low.&nbsp;</p>",
+    "_id": "60080b99680ed409e2f97e10",
+    "_parentId": "60081322680ed409e2f97e19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_beforeafter": {
+      "before": "course/en/assets/b8a7701b39d9a964776145a76751b90d1754da8d.svg",
+      "altbefore": "",
+      "after": "course/en/assets/cdfa82346fe17815c2014a5a50c4c7a359d71c74.svg",
+      "alt": "All cells containing a number lower than ten have now been replaced with an asterisk. This leaves only 6 out of 36 cells with a figure in them.",
+      "attribution": ""
+    },
+    "bottomText": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The balance between risk and utility- example",
+    "displayTitle": "The balance between risk and utility- example",
+    "body": "<p>Calculating the balance between risk and utility is something that we all do regularly in everyday life.&nbsp;</p><p>When you cross a road to reach a shop you will be making this calculation. You could look before crossing, or sprint across the road. How careful should you be?</p>",
+    "_id": "60080d28680ed409e2f97e13",
+    "_parentId": "5fff1398680ed409e2f97d81",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each option to discover how risky or useful they may be",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "https://images.unsplash.com/photo-1465815367149-ca149851a3a9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3Jvc3Npbmd8ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60",
+      "alt": "",
+      "attribution": "<span>Photo by <a href=\"https://unsplash.com/@daryan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Daryan Shamkhali</a> on <a href=\"https://unsplash.com/s/photos/crossing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>"
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Option one",
+        "_ariaLevel": 0,
+        "body": "<p>Risk Analysis</p><p>No risk-No chance or getting run over or being badly injured.</p><p>Utility analysis</p><p>Low- you may not get across the road or the shop may be shut by&nbsp;the time you cross</p>",
+        "strapline": "Armour",
+        "_graphic": {
+          "src": "course/en/assets/95ac51a2ab5a22395a3b857999673702bf0d6a90.jpg",
+          "alt": "Graph plotting risk (y axis) against utility (x axis).  This option is low against both risk and utility",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/193f5dc946f9ba86adc14607d5e96c2e706b38b8.svg",
+          "alt": " Put on suit of armour and crash helmet. Look both ways many times. Do not cross if you see any cars. Do not cross if the road is slippery."
+        },
+        "_classes": "",
+        "_left": 0,
+        "_top": 0
+      },
+      {
+        "title": "Option two",
+        "_ariaLevel": 0,
+        "body": "<p>Risk analysis</p><p>Low- Unlikely but still a chance of being run over</p><p>Utility analysis</p><p>Medium- Strategy meets the needs. Shop could still be shut if road is busy.</p>",
+        "strapline": "sensible",
+        "_graphic": {
+          "src": "course/en/assets/c80c0159bcd7648eed06e043a804ca99b5eea028.jpg",
+          "alt": "Graph plotting risk (y axis) against utility (x axis). The option is low against risk and medium against utility ",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/3f73ddb3257b1cd74fcd15f225158e4f871f80fd.svg",
+          "alt": "Option two- Wear sensible shoes. Look both ways. Cross if vehicles are not close. Walk at a reasonable pace, keeping looking both ways."
+        },
+        "_classes": "",
+        "_left": 38,
+        "_top": 0
+      },
+      {
+        "title": "Option three",
+        "_ariaLevel": 0,
+        "body": "<p>Risk analysis</p><p>High- High risk of getting run over.</p><p>Utility analysis</p><p>High- You'll get to the shop very quickly</p>",
+        "strapline": "run",
+        "_graphic": {
+          "src": "course/en/assets/04f11923b6dc8cd0df22bfc011683768fc1e5039.jpg",
+          "alt": "Graph plotting risk (y axis) against utility (x axis). Both risk and utility are placed highly",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/3738400e808e06ce08924b28c730c41b1aed583c.svg",
+          "alt": "Option three. Don't look both ways. Run."
+        },
+        "_classes": "",
+        "_left": 75,
+        "_top": 0
+      }
+    ]
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60081b3c680ed409e2f97e2b",
+    "_parentId": "60081a4c680ed409e2f97e2a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Microdata",
+          "src": "course/en/assets/639af99ed040719eb2d101765b0b81385eefea3c.svg"
+        },
+        "backTitle": "Microdata",
+        "backBody": "<p>Microdata are data on the characteristics of units in a population, such as individuals, households or establishments. These data can be collected by a census, a sample survey, or from administrative data.</p><p>Microdata are also known as record level data, or statistical microdata.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Frequency tables",
+          "src": "course/en/assets/b2610f4ec3af939c1936e9d8fd59c38d84d0cf31.svg"
+        },
+        "backTitle": "Frequency tables",
+        "backBody": "<p>Frequency tables are tables of counts often used to display data collected in surveys or censuses.</p><p>Each cell in the table is a frequency or count. An example of a frequency table is the number of males aged over 65 living in a particular geography, such as output area.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Magnitude tables",
+          "src": "course/en/assets/305529fe21f6a24a05edc7145708411d0634bf1b.svg"
+        },
+        "backTitle": "Magnitude tables",
+        "backBody": "<p>Magnitude tables are tables of totals or averages. Magnitude tables are often used to display data from business surveys. Each cell represents a total value, which are the contributors to that cell.</p><p>An example of a magnitude table is the total turnover for all businesses in the Petrochemical subsector in the North East region.&nbsp;</p>"
+      }
+    ]
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6008231e680ed409e2f97e33",
+    "_parentId": "60082318680ed409e2f97e32",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60082345680ed409e2f97e35",
+    "_parentId": "6008233d680ed409e2f97e34",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60082713680ed409e2f97e43",
+    "_parentId": "6008270f680ed409e2f97e42",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60082a8d680ed409e2f97e4e",
+    "_parentId": "60082a4f680ed409e2f97e4c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "https://images.unsplash.com/photo-1532219362275-a1cbe9dc3602?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8cGFybGlhbWVudHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Statistics of Trade Act (1947)",
+        "_ariaLevel": 0,
+        "body": "<p>The key element of the Statistics of Trade Act in relation to statistical disclosure&nbsp;is Section 9 (which refers of the disclosure of information) part 1 which states:</p><blockquote><p style=\"margin-left:8.5pt\">No individual estimates or returns, and no information relating to an individual undertaking, obtained under the foregoing provisions of this Act, shall be disclosed without the previous consent in writing of the person carrying on the undertaking which is the subject of the estimates, returns or information.</p></blockquote>",
+        "strapline": "1947",
+        "_graphic": {
+          "src": "course/en/assets/fb2103496889e234d32a77ae4612f2f8f2c1d7a3.svg",
+          "alt": "1947",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/fb2103496889e234d32a77ae4612f2f8f2c1d7a3.svg",
+          "alt": "1947"
+        },
+        "_classes": "",
+        "_left": 0,
+        "_top": 0
+      },
+      {
+        "title": "Statistics and Registration Act (2007)",
+        "_ariaLevel": 0,
+        "body": "<p>The Statistics and Registration Service act applies to the Office for National Statistics (ONS) data and defines personal information as information in which the identity of a person or business:</p><ul><li>is specified in the information</li><li>can be deduced from the information or</li><li>can be deduced from the information taken together with any other published information</li></ul><p>Any disclosure of personal information is prohibited, except in certain cases, including where the information 'has already been lawfully made available&nbsp;to the public, is made with the consent of the person to who it related, or is made to an approved researcher'.&nbsp;</p>",
+        "strapline": "2007",
+        "_graphic": {
+          "src": "course/en/assets/874b3a5dbfe61b18fa4c23fd6749b368bdad502f.svg",
+          "alt": "2007",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/874b3a5dbfe61b18fa4c23fd6749b368bdad502f.svg",
+          "alt": "2007"
+        },
+        "_classes": "",
+        "_left": 25,
+        "_top": 25
+      },
+      {
+        "title": "General Data Protection Regulation (GDPR) 2018",
+        "_ariaLevel": 0,
+        "body": "<p>GDPR mandates protection for personal data from which identities of individuals can be determined from the data itself and other sources held by the data controller.</p><p>It refers to special categories of data for which additional care must be taken. These include:</p><ul><li>ethnic origin</li><li>political&nbsp;affiliation</li><li>religion</li><li>biometrics (for ID purposes)</li><li>health</li><li>sexual orientation</li></ul>",
+        "strapline": "2018",
+        "_graphic": {
+          "src": "course/en/assets/7e768c56bdc8ed92c437a677d537a7c29b6d0ba9.svg",
+          "alt": "2018",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/7e768c56bdc8ed92c437a677d537a7c29b6d0ba9.svg",
+          "alt": "2018"
+        },
+        "_classes": "",
+        "_left": 50,
+        "_top": 50
+      },
+      {
+        "title": "Data protection Act 2018",
+        "_ariaLevel": 0,
+        "body": "<p>The Data Protection Act states that:</p><blockquote><p>' A person must not knowingly or recklessly without the consent of the data controller-</p><ol><li>obtain or disclose personal data or the information contained in personal data. or</li><li>procure the disclosure to another person of the information contained in personal data'</li></ol></blockquote><p>There are some exceptions under this act for the prevention of crimes, public interest and is the disclosure is legal under other acts.&nbsp;</p>",
+        "strapline": "2018",
+        "_graphic": {
+          "src": "course/en/assets/7e768c56bdc8ed92c437a677d537a7c29b6d0ba9.svg",
+          "alt": "2018",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/7e768c56bdc8ed92c437a677d537a7c29b6d0ba9.svg",
+          "alt": "2018"
+        },
+        "_classes": "",
+        "_left": 75,
+        "_top": 75
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Which of these is NOT a realistic scenario for statistical disclosure?</p>",
+    "_id": "60082c1b680ed409e2f97e55",
+    "_parentId": "60082a37680ed409e2f97e49",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please select one",
+    "_items": [
+      {
+        "text": "A Journalist looking for an interesting news story",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A business trying to uncover commercial information about competitors",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Someone trying to hack into a database",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Someone trying to determine sensitive information about a neighbour",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Someone hacking into a database is still a risk to the stored data, but it is not&nbsp;a risk of disclosure control. it is a risk of information security.</p><p>The other options are risks of disclosure in published or released data.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>&nbsp;</p><p>&nbsp;</p>",
+        "notFinal": "<p>Not quite.&nbsp;</p><p>Someone hacking into a database is still a risk to the stored data, but it is not&nbsp;a risk of disclosure control. it is a risk of information security.</p><p>The other options are risks of disclosure in published or released data.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "600833b6680ed409e2f97e61",
+    "_parentId": "600833af680ed409e2f97e60",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "601d53ff680ed409e2f97fe4",
+    "_parentId": "601d53fa680ed409e2f97fe3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select each text box to find out more about each step",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/1f09977e767975bb1e3807e03fdf91bde571627b.svg",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Determine user requirements",
+        "_ariaLevel": 0,
+        "body": "<p>The first step of the disclosure control process is to determine the needs of those that use the data.&nbsp;</p><p>The needs of the users determine what type of disclosure control would be applicable.</p><p>For example, if users are particularly interested in aged of people in a table then the disclosure control method should aim to maintain utility of the age variable wherever possible.&nbsp;</p>",
+        "strapline": "testing",
+        "_graphic": {
+          "src": "course/en/assets/e5dd20f6482ad03f3bc49f794c070fddacc4c641.svg",
+          "alt": "Determine user requirements",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/e5dd20f6482ad03f3bc49f794c070fddacc4c641.svg",
+          "alt": "Determine user requirements"
+        },
+        "_classes": "",
+        "_left": 0,
+        "_top": 2
+      },
+      {
+        "title": "Understand the data",
+        "_ariaLevel": 0,
+        "body": "<p>The second step of the disclosure control framework is to fully understand what the data represent.&nbsp;</p><p>Knowing how the outputs were constructed and what they mean allows a better understanding of the disclosure risks, and the probability, of disclosures occurring.&nbsp;</p>",
+        "strapline": "test 2",
+        "_graphic": {
+          "src": "course/en/assets/b976e679e9c444ba6fe56c83a4aa7962e162615e.svg",
+          "alt": "Understand the data",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/b976e679e9c444ba6fe56c83a4aa7962e162615e.svg",
+          "alt": "Understand the data"
+        },
+        "_classes": "",
+        "_left": 23,
+        "_top": 2
+      },
+      {
+        "title": "Is disclosure likely to occur?",
+        "_ariaLevel": 0,
+        "body": "<p>The third step of the disclosure control process is to evaluate how likely a disclosure is to occur, and how much of an effect(impact) this would have.&nbsp;</p><p>If the likelihood or impact of disclosure is high, then disclosure control should be applied.&nbsp;</p><p>If the likelihood and impact of disclosure is very low, then disclosure control may not be required.&nbsp;</p>",
+        "strapline": "disclosure yes no",
+        "_graphic": {
+          "src": "course/en/assets/9bac275d04bcb44123309f318ef92693f4b96260.svg",
+          "alt": "Is disclosure likely to occur?",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/34244f053cc08d875e50ea705c2b8fbdcd4eb760.svg",
+          "alt": "Is disclosure likely to occur?"
+        },
+        "_classes": "",
+        "_left": 26,
+        "_top": 18
+      },
+      {
+        "title": "Would disclosure be a breach of law, policy or trust?",
+        "_ariaLevel": 0,
+        "body": "<p>The fourth step of the disclosure control process is to determine whether a disclosure would be a breach of law, policy or of public trust.&nbsp;</p><p>Disclosure control must be applied where a disclosure would be a breach of the law, but also in cases where it would undermine the trust of the public.&nbsp;</p><p>A breach of public trust would&nbsp;likely result in fewer volunteers for future surveys, and therefore in less reliable information for future outputs.&nbsp;</p>",
+        "strapline": "breach trust",
+        "_graphic": {
+          "src": "course/en/assets/9b6a265fd8dc39a177841e0100cd11d5495c4967.svg",
+          "alt": "Would disclosure be a breach of law, policy or trust?",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/25e00df7a4b42f1bd8f2c26696867e5f7099d042.svg",
+          "alt": "Would disclosure be a breach of law, policy or trust?"
+        },
+        "_classes": "",
+        "_left": 57,
+        "_top": 18
+      },
+      {
+        "title": "Select disclosure control methods and implement",
+        "_ariaLevel": 0,
+        "body": "<p>Once disclosure has been determined to be an issue, appropriate statistical disclosure control (SDC) methods should be employed to reduce the risk of the data.&nbsp;</p><p>Other e-learning module sin this series will cover some of the methods that can be used for the appropriate data formats.&nbsp;</p>",
+        "strapline": "Breach",
+        "_graphic": {
+          "src": "course/en/assets/126749bf60ccaf899b448f83ceddfcbbcc40c9a9.svg",
+          "alt": "Select disclosure control methods and implement",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/126749bf60ccaf899b448f83ceddfcbbcc40c9a9.svg",
+          "alt": "Select disclosure control methods and implement"
+        },
+        "_classes": "",
+        "_left": 80,
+        "_top": 46
+      },
+      {
+        "title": "Publish the data",
+        "_ariaLevel": 0,
+        "body": "<p>The final stage of the process is the publication of the data.&nbsp;</p>",
+        "strapline": "publish",
+        "_graphic": {
+          "src": "course/en/assets/abea346f6673c446db60f312039819fb5e292c91.svg",
+          "alt": "Publish the data",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "course/en/assets/abea346f6673c446db60f312039819fb5e292c91.svg",
+          "alt": "Publish the data"
+        },
+        "_classes": "",
+        "_left": 18,
+        "_top": 77
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Types of intruder",
+    "displayTitle": "Types of intruder",
+    "body": "<p>Intruders, also known as attackers, are those who try to determine confidential information about a respondent from a dataset.</p>",
+    "_id": "601d6993680ed409e2f98026",
+    "_parentId": "601d698c680ed409e2f98025",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Are intruders always malicious? ",
+        "body": "<p>Some intruders are malicious, but not all. For example, a journalist may be looking to write a public interest story, and find information about an organisation in a dataset.</p><p>Even if this is not done with malicious intent, this is still an instance of statistical disclosure.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Are intruders always deliberate?",
+        "body": "<p>Not every intruder acts deliberately.</p><p>Some intruders might deliberately attempt to determine confidential information about a respondent from a dataset.</p><p>Other intruders may inadvertently determine this information. Both of these scenarios should be taken seriously, and data should be protected from disclosure as much as possible.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Are intruders always strangers?",
+        "body": "<p>An intruder can be an acquaintance using information gained by knowing the respondent to uncover confidential information in your data. For example, someone’s job role and grade could be used to find out their salary if this information is available.</p><p>An intruder could also be a stranger using information available in the public domain to discover more about a respondent. For example, information found in newspaper articles could be used to identify a respondent in a dataset.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What motivates intruders? ",
+    "displayTitle": "What motivates intruders? ",
+    "body": "",
+    "_id": "601d6a39680ed409e2f98028",
+    "_parentId": "601d6a18680ed409e2f98027",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Identity theft",
+        "_ariaLevel": 0,
+        "body": "<p>Intruders may want to find personal information in order to commit identity theft.&nbsp;</p>",
+        "_graphic": {
+          "src": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJhdWR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "alt": "Person sits at computer with several screens open",
+          "attribution": ""
+        },
+        "strapline": "Identity theft"
+      },
+      {
+        "title": "Enhance private databases ",
+        "_ariaLevel": 0,
+        "body": "<p>Private companies may be looking to add more information to their own databases than currently held.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/a32db03911ae9dfc7d3b8dd045bc73590a4c3138.jpg",
+          "alt": "Group of people sit at table working on laptops",
+          "attribution": ""
+        },
+        "strapline": "private"
+      },
+      {
+        "title": "Gain against competitors ",
+        "_ariaLevel": 0,
+        "body": "<p>Companies may be looking for confidential information that can give them a commercial advantage over their competitors.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/6a0d87d31ff8727c1038d6f1f2c0965dc9aa03ab.jpg",
+          "alt": "Bank notes are spread across a surface",
+          "attribution": ""
+        },
+        "strapline": "commercial "
+      },
+      {
+        "title": "Public interest",
+        "_ariaLevel": 0,
+        "body": "<p>Journalists may want information for a public interest story.</p>",
+        "_graphic": {
+          "src": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8am91cm5hbGlzdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "alt": "Group of people sit and take notes",
+          "attribution": ""
+        },
+        "strapline": "journalist"
+      },
+      {
+        "title": "To find out sensitive information ",
+        "_ariaLevel": 0,
+        "body": "<p>People may be looking for information about others such as their income of health.</p>",
+        "_graphic": {
+          "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjB8fGhlYWx0aHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "alt": "Doctor in white lab coat holds a stethoscope ",
+          "attribution": "<span>Photo by <a href=\"https://unsplash.com/@impulsq?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Online Marketing</a> on <a href=\"https://unsplash.com/s/photos/health?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>"
+        },
+        "strapline": "health"
+      },
+      {
+        "title": "Discreditation ",
+        "_ariaLevel": 0,
+        "body": "<p>Some intruders may be looking to discredit the Government or the Analysis function.</p>",
+        "_graphic": {
+          "src": "https://images.unsplash.com/photo-1532219362275-a1cbe9dc3602?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8cGFybGlhbWVudHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "alt": "Houses of parliament in the background, some boats are sailing on the river in the foreground",
+          "attribution": "<span>Photo by <a href=\"https://unsplash.com/@shanerounce?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Shane Rounce</a> on <a href=\"https://unsplash.com/s/photos/parliament?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>"
+        },
+        "strapline": "Government"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Which action should be completed before assessing whether there is a risk of disclosure?</p>",
+    "_id": "602285b1680ed409e2f9802c",
+    "_parentId": "602285ab680ed409e2f9802b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one",
+    "_items": [
+      {
+        "text": "Asses which intruders are interested in the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Understand the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Anonymise the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Select the disclosure control methods",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct, you must make sure that you understand the data you are working with before you make any assessment of disclosure risk.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect,&nbsp;you must make sure that you understand the data you are working with before you make any assessment of disclosure risk.</p>",
+        "notFinal": "<p>Incorrect.&nbsp;</p><p>Think about the statistical disclosure process.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Why is it important to apply disclosure control to protect confidential data?&nbsp;</p>",
+    "_id": "6022860c680ed409e2f9802e",
+    "_parentId": "60228605680ed409e2f9802d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all that apply",
+    "_items": [
+      {
+        "text": "To avoid breaking the law",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To make sure that key researchers have priveledged access",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To maintain trust so that people will consent to share information",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To maximise the utility of the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Statistical disclosure control is important because it minimises disclosure of private information. This is a legal requirement according to several UK laws.</p><p>Additionally, it is important to maintain the trust of the public to ensure that they consent to share information.</p><p>Disclosure control may not maximise the utility of the data - in order to keep information private there may have to be a loss of some utility.</p><p>Disclosure control is not intended to be a process which designates which researchers have access to datasets.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Statistical disclosure control is important because it minimises disclosure of private information. This is a legal requirement according to several UK laws.</p><p>Additionally, it is important to maintain the trust of the public to ensure that they consent to share information.</p><p>Disclosure control may not maximise the utility of the data - in order to keep information private there may have to be a loss of some utility.</p><p>Disclosure control is not intended to be a process which designates which researchers have access to datasets.&nbsp;</p>",
+        "notFinal": "<p>Statistical disclosure control is important because it minimises disclosure of private information. This is a legal requirement according to several UK laws.</p><p>Additionally, it is important to maintain the trust of the public to ensure that they consent to share information.</p><p>Disclosure control may not maximise the utility of the data - in order to keep information private there may have to be a loss of some utility.</p><p>Disclosure control is not intended to be a process which designates which researchers have access to datasets.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60228757680ed409e2f98030",
+    "_parentId": "60228752680ed409e2f9802f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Freedom of Information Act ",
+    "displayTitle": "Freedom of Information Act ",
+    "body": "<p>Another law to be aware of is the <a href=\"https://www.legislation.gov.uk/ukpga/2000/36/contents\" target=\"_blank\">Freedom of Information Act (FOI) 2000</a>&nbsp;which&nbsp;gives rights of&nbsp;public access to&nbsp;information&nbsp;held by public authorities.</p>",
+    "_id": "6023adfe680ed409e2f98036",
+    "_parentId": "6023adf3680ed409e2f98035",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>This is a full (non-sampled) table for a small area of income bands and household size. The problem is that the table reveals the banded income of the largest household. If you know the household with at least 6 people in it, you can work out that they have an annual income between 0 and 9999 pounds.&nbsp;</p><p>&nbsp;</p><!DOCTYPE html>\n<html>\n<head>\n<style>\ntable, th, td {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\nth, td {\n  padding: 5px;\n}\nth {\n  text-align: left;\n}\ntr {\n  text-align: right;\n}\n</style>\n</head>\n<body>\n\n<h2>Annual household income</h2>\n\n\n<table>\n   <tr>\n    <th style=\"width:100px\">Household size</th>\n    <th style=\"width:100px\">0 to 9,999</th> \n    <th style=\"width:100px\">10,000 to 19,999</th>\n    <th style=\"width:100px\">20,000 to 39,999</th>\n    <th style=\"width:100px\">40,000 to 59,999</th>\n    <th style=\"width:100px\">60,000 to 79,999</th>\n    <th style=\"width:100px\">80,000 to 79,999</th>\n    <th style=\"width:100px\">Total</th>\n  </tr>\n  <tr>\n    <td>1</td>\n    <td>3</td>\n    <td>7</td>\n    <td>15</td>\n    <td>4</td>\n    <td>0</td>\n    <td>0</td>\n    <td>29</td>\n  </tr>\n  <tr>\n    <td>2</td>\n    <td>2</td>\n    <td>2</td>\n    <td>15</td>\n    <td>16</td>\n    <td>8</td>\n    <td>4</td>\n    <td>47</td>\n  </tr>\n  <tr>\n    <td>3</td>\n    <td>1</td>\n    <td>4</td>\n    <td>9</td>\n    <td>18</td>\n    <td>5</td>\n    <td>5</td>\n    <td>42</td>\n  </tr>\n  <tr>\n    <td>4</td>\n    <td>4</td>\n    <td>8</td>\n    <td>8</td>\n    <td>10</td>\n    <td>10</td>\n    <td>2</td>\n    <td>42</td>\n  </tr>\n  <tr>\n    <td>5</td>\n    <td>1</td>\n    <td>0</td>\n    <td>2</td>\n    <td>4</td>\n    <td>3</td>\n    <td>1</td>\n    <td>11</td>\n  </tr>\n  <tr style=\"background-color:#DCDCDC\"> \n    <td>6+</td>\n    <td>1</td>\n    <td>0</td>\n    <td>0</td>\n    <td>0</td>\n    <td>0</td>\n    <td>0</td>\n    <td>1</td>\n  </tr>\n  <tr> \n    <td>Total</td>\n    <td>12</td>\n    <td>21</td>\n    <td>49</td>\n    <td>52</td>\n    <td>26</td>\n    <td>12</td>\n    <td>172</td>\n  </tr>\n</table>\n\n</body>\n</html>\n",
+    "_id": "602fb50c680ed409e2f9808b",
+    "_parentId": "6008242a680ed409e2f97e36",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "simple-table",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "HTML version of tables",
+    "displayTitle": "HTML version of tables",
+    "body": "<p>Annual household income (with disclosive row removed)</p><table><tbody><tr><th style=\"width:100px\">Household size</th><th style=\"width:100px\">0 to 9,999</th><th style=\"width:100px\">10,000 to 19,999</th><th style=\"width:100px\">20,000 to 39,999</th><th style=\"width:100px\">40,000 to 59,999</th><th style=\"width:100px\">60,000 to 79,999</th><th style=\"width:100px\">80,000 to 79,999</th><th style=\"width:100px\">Total</th></tr><tr><td>1</td><td>3</td><td>7</td><td>15</td><td>4</td><td>0</td><td>0</td><td>29</td></tr><tr><td>2</td><td>2</td><td>2</td><td>15</td><td>16</td><td>8</td><td>4</td><td>47</td></tr><tr><td>3</td><td>1</td><td>4</td><td>9</td><td>18</td><td>5</td><td>5</td><td>42</td></tr><tr><td>4</td><td>4</td><td>8</td><td>8</td><td>10</td><td>10</td><td>2</td><td>42</td></tr><tr><td>5</td><td>1</td><td>0</td><td>2</td><td>4</td><td>3</td><td>1</td><td>11</td></tr><tr><td>Total</td><td>12</td><td>21</td><td>49</td><td>52</td><td>26</td><td>12</td><td>172</td></tr></tbody></table><p>&nbsp;</p><p>Annual household income (all figures under ten suppressed)</p><table><tbody><tr><th style=\"width:100px\">Household size</th><th style=\"width:100px\">0 to 9,999</th><th style=\"width:100px\">10,000 to 19,999</th><th style=\"width:100px\">20,000 to 39,999</th><th style=\"width:100px\">40,000 to 59,999</th><th style=\"width:100px\">60,000 to 79,999</th><th style=\"width:100px\">80,000 to 79,999</th><th style=\"width:100px\">Total</th></tr><tr><td>1</td><td>*</td><td>*</td><td>15</td><td>*</td><td>*</td><td>*</td><td>29</td></tr><tr><td>2</td><td>*</td><td>*</td><td>15</td><td>16</td><td>*</td><td>*</td><td>47</td></tr><tr><td>3</td><td>*</td><td>*</td><td>9</td><td>18</td><td>*</td><td>*</td><td>42</td></tr><tr><td>4</td><td>*</td><td>*</td><td>*</td><td>10</td><td>10</td><td>*</td><td>42</td></tr><tr><td>5</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>11</td></tr><tr><td>6+</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>*</td><td>1</td></tr><tr><td>Total</td><td>12</td><td>21</td><td>49</td><td>52</td><td>26</td><td>12</td><td>172</td></tr></tbody></table>",
+    "_id": "602fc2cd680ed409e2f9808d",
+    "_parentId": "602fc2c5680ed409e2f9808c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": []
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "_id": "602fc3c2680ed409e2f9808f",
+    "_parentId": "602fc3be680ed409e2f9808e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]
